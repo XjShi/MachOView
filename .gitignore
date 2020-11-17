@@ -38,3 +38,14 @@ otool_disasm/.svn/text-base/symbol.c.svn-base
 otool_disasm/disasm.xcodeproj/.svn/all-wcprops
 otool_disasm/disasm.xcodeproj/.svn/entries
 otool_disasm/disasm.xcodeproj/.svn/text-base/project.pbxproj.svn-base
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
